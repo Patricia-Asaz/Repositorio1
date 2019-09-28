@@ -16,8 +16,7 @@ public class ProjectDS01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("jjjjj");
-        System.out.println("aaaaa");
+        System.out.println("ggggg");
     }
     
 }
