@@ -10,7 +10,8 @@ package projectds01;
  * @author Patty
  */
 public class Myrian {
-    public static void main(){
+    public static void main(String[] args) {
+        System.out.println("Myrian");
     }
     
 }
