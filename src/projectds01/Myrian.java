@@ -10,5 +10,7 @@ package projectds01;
  * @author Patty
  */
 public class Myrian {
+    public static void main(){
+    }
     
 }
