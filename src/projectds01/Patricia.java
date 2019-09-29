@@ -5,10 +5,16 @@
  */
 package projectds01;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Patty
  */
 public class Patricia {
+    int a=0;
+    int b=0;
+    Scanner sc=new Scanner(System.in);
+    
     
 }
